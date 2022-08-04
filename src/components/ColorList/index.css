@@ -1,0 +1,7 @@
+.ColorList {
+    display: flex;
+    height: 100vh;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
